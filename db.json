@@ -1,0 +1,1262 @@
+{
+  "users": [
+    {
+      "email": "pippo@gmail.com",
+      "password": "$2a$10$Xv0tG071NUsh1AHVt7zF/O7Bnpvv/ZMywikAq2JnE/Wr92ykr8TFS",
+      "username": "pippo11",
+      "id": 1
+    },
+    {
+      "email": "paperino@gmail.com",
+      "password": "$2a$10$gePd28nAUS8Cdwm83ZA20.UfjDimhxoTTRUkz4vG29YPpREeNewVS",
+      "username": "paperino",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "userId": 2,
+      "mediaType": "movie",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg",
+        "belongs_to_collection": {
+          "id": 404609,
+          "name": "John Wick Collection",
+          "poster_path": "/xUidyvYFsbbuExifLkslpcd8SMc.jpg",
+          "backdrop_path": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+        },
+        "budget": 90000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://johnwick.movie",
+        "id": 603692,
+        "imdb_id": "tt10366206",
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 2421.682,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "production_companies": [
+          {
+            "id": 3528,
+            "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+            "name": "Thunder Road",
+            "origin_country": "US"
+          },
+          {
+            "id": 23008,
+            "logo_path": "/5SarYupipdiejsEqUkwu1SpYfru.png",
+            "name": "87Eleven",
+            "origin_country": "US"
+          },
+          {
+            "id": 491,
+            "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 264,
+            "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+            "name": "Studio Babelsberg",
+            "origin_country": "DE"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-03-22",
+        "revenue": 426769198,
+        "runtime": 170,
+        "spoken_languages": [
+          {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+          }
+        ],
+        "status": "Released",
+        "tagline": "No way back. One way out.",
+        "title": "John Wick: Chapter 4",
+        "video": false,
+        "vote_average": 7.99,
+        "vote_count": 1705
+      },
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "mediaType": "movie",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/4t0oBFrJyweYPt0hocW6RUa0b6H.jpg",
+        "belongs_to_collection": {
+          "id": 9485,
+          "name": "The Fast and the Furious Collection",
+          "poster_path": "/vEq10ZynOwHaSIIQ3mWohbHzvRb.jpg",
+          "backdrop_path": "/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg"
+        },
+        "budget": 340000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://fastxmovie.com",
+        "id": 385687,
+        "imdb_id": "tt5433140",
+        "original_language": "en",
+        "original_title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+        "popularity": 5303.599,
+        "poster_path": "/1E5baAaEse26fej7uHcjOgEE2t2.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 333,
+            "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+            "name": "Original Film",
+            "origin_country": "US"
+          },
+          {
+            "id": 1225,
+            "logo_path": "/rIxhJMR7oK8b2fMakmTfRLY2TZv.png",
+            "name": "One Race",
+            "origin_country": "US"
+          },
+          {
+            "id": 34530,
+            "logo_path": null,
+            "name": "Perfect Storm Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-05-17",
+        "revenue": 267300000,
+        "runtime": 142,
+        "spoken_languages": [
+          {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The end of the road begins.",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 6.891,
+        "vote_count": 400
+      },
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "mediaType": "tv",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+        "created_by": [],
+        "episode_run_time": [
+          24
+        ],
+        "first_air_date": "2019-04-06",
+        "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
+          {
+            "id": 10759,
+            "name": "Action & Adventure"
+          },
+          {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+          }
+        ],
+        "homepage": "https://kimetsu.com/anime",
+        "id": 85937,
+        "in_production": true,
+        "languages": [
+          "ja"
+        ],
+        "last_air_date": "2023-05-21",
+        "last_episode_to_air": {
+          "id": 4354758,
+          "name": "Awful Villain",
+          "overview": "Genya aims for the neck of the fifth demon that split off from Hantengu, but the demon's neck is shockingly hard, and his sword snaps in half in his attempt to strike it. His gun is also ineffective and Genya is driven into a corner. Realizing that he is unable to sever the neck by himself, he entrusts defeating the fifth demon, which is believed to be the main body, to Tanjiro. Taking on Genya's will, Tanjiro wields his sword against the fleeing demon...",
+          "vote_average": 5,
+          "vote_count": 2,
+          "air_date": "2023-05-21",
+          "episode_number": 7,
+          "production_code": "",
+          "runtime": 24,
+          "season_number": 4,
+          "show_id": 85937,
+          "still_path": "/7jOdHvdpD5oKGsRgixuMCJ5P5vJ.jpg"
+        },
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "next_episode_to_air": {
+          "id": 4354759,
+          "name": "The Mu in Muichiro",
+          "overview": "",
+          "vote_average": 0,
+          "vote_count": 0,
+          "air_date": "2023-05-28",
+          "episode_number": 8,
+          "production_code": "",
+          "runtime": null,
+          "season_number": 4,
+          "show_id": 85937,
+          "still_path": null
+        },
+        "networks": [
+          {
+            "id": 1,
+            "logo_path": "/yS5UJjsSdZXML0YikWTYYHLPKhQ.png",
+            "name": "Fuji TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 343,
+            "logo_path": "/9rNqtDYAnD6yTOutvHI3synSEs2.png",
+            "name": "Gunma TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 614,
+            "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+            "name": "Tokyo MX",
+            "origin_country": "JP"
+          },
+          {
+            "id": 861,
+            "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+            "name": "BS11",
+            "origin_country": "JP"
+          },
+          {
+            "id": 879,
+            "logo_path": "/pX3gDCsG8WcQvQbCNJ37t5w0HyG.png",
+            "name": "Tokai Television Broadcasting",
+            "origin_country": "JP"
+          },
+          {
+            "id": 1163,
+            "logo_path": "/1J33ZvSff1VOEt3aC8CyKmj9GEy.png",
+            "name": "Kansai TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 2478,
+            "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+            "name": "Tochigi TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 3535,
+            "logo_path": "/sRcnyMsKdnvMS1mMe7O6ZErUC6H.png",
+            "name": "Fukui TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 3721,
+            "logo_path": "/uKTzwez1p8tB4dnHMCeDjdN7xlR.png",
+            "name": "Hokkaido Cultural Broadcasting",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4799,
+            "logo_path": "/y1F9WoEjz7MhzjN56im3tVKTd1r.png",
+            "name": "Iwate Menkoi Television",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4825,
+            "logo_path": "/9dD3buakf1nS6XQVBwEtm50izs4.png",
+            "name": "Television Oita System",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4829,
+            "logo_path": "/s7QeN0dxi2PMJOJY2Qid52Wq9iX.png",
+            "name": "Sendai Television",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4839,
+            "logo_path": "/94U1cId5rHGqBScFIg6rgG5lhPz.png",
+            "name": "SAGA TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4841,
+            "logo_path": "/1UoF27Pe1BVTEyGxH69kJyz7Uyf.png",
+            "name": "Ishikawa TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4850,
+            "logo_path": "/hLOBRnC5QMEjTEvVJnuxgtDsKmH.png",
+            "name": "Television Nishinippon",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4851,
+            "logo_path": "/wd94E8WjZwEbu1PLxhNNH0Ny3VT.png",
+            "name": "OHK",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4855,
+            "logo_path": "/vRWtsyWIcIrtw0PXbCbjC4xvXtw.png",
+            "name": "Kochi Sun Sun Broadcasting",
+            "origin_country": "JP"
+          },
+          {
+            "id": 4970,
+            "logo_path": "/boaSCPMx8JjYB4agAhYNt7mCJ6N.png",
+            "name": "TSS",
+            "origin_country": "JP"
+          },
+          {
+            "id": 5644,
+            "logo_path": "/832SJcpnozaNWKto6hPSpYvDYQU.png",
+            "name": "TV Shizuoka",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6156,
+            "logo_path": "/gxpzF98cV1DHpXzJmXf2Ew6sQvV.png",
+            "name": "UMK TV Miyazaki",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6209,
+            "logo_path": "/fjenNun3vCLtnHHsTpAgVYkubMl.png",
+            "name": "NST",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6210,
+            "logo_path": "/kCNJcIxnOXI4fkc8oZLOk1BZb0o.png",
+            "name": "NBS",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6211,
+            "logo_path": "/mFM7fx4yt3FOa6leUbBbd8iGZIi.png",
+            "name": "Sakuranbo TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6212,
+            "logo_path": "/eAaH52WuIH4XNlqYSonXZRPRnGE.png",
+            "name": "TSK",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6213,
+            "logo_path": "/np5gbKJvysVLnJKg8g1OxhiA6Qa.png",
+            "name": "Ehime Broadcasting",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6214,
+            "logo_path": "/fF4u5E7SBK4qOoIUOVmr5FbYk2g.png",
+            "name": "KTS",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6666,
+            "logo_path": "/rCdk5TWd3RPKTZU1zlhDCEFuzsI.png",
+            "name": "Fukushima TV",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6670,
+            "logo_path": "/7OAJi6aS9zQWwP64jqxRllBvYKR.png",
+            "name": "NIB",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6819,
+            "logo_path": "/hNbCO6N6F4o09DCGAoz7g0G2E9F.png",
+            "name": "AKT",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6821,
+            "logo_path": "/aWuhW3nOkrQrjdhcHOTDsbYXNtU.png",
+            "name": "Toyama Television",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6822,
+            "logo_path": "/lquU1iSzXNKMWohDVIE91pxDzhE.png",
+            "name": "TV Kumamoto",
+            "origin_country": "JP"
+          },
+          {
+            "id": 6823,
+            "logo_path": "/UQS8TXqK0b367KX6Vw0aOfMB.png",
+            "name": "Okinawa Television Broadcasting",
+            "origin_country": "JP"
+          }
+        ],
+        "number_of_episodes": 55,
+        "number_of_seasons": 4,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "鬼滅の刃",
+        "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+        "popularity": 255.651,
+        "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+        "production_companies": [
+          {
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
+          },
+          {
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
+          },
+          {
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
+          },
+          {
+            "id": 91520,
+            "logo_path": "/wdcFLdFVOPEm3uEp6Hb9OXgi5Zd.png",
+            "name": "STUDIO MAUSU",
+            "origin_country": "JP"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+          }
+        ],
+        "seasons": [
+          {
+            "air_date": "2020-08-26",
+            "episode_count": 7,
+            "id": 131803,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/tjyZXCLfavRr9InvtWg3RrF5zW2.jpg",
+            "season_number": 0
+          },
+          {
+            "air_date": "2019-04-06",
+            "episode_count": 26,
+            "id": 116882,
+            "name": "Tanjiro Kamado, Unwavering Resolve Arc",
+            "overview": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+            "poster_path": "/x2f3rK7GvxalWsa74H87PeVvsZo.jpg",
+            "season_number": 1
+          },
+          {
+            "air_date": "2021-10-10",
+            "episode_count": 7,
+            "id": 181846,
+            "name": "Mugen Train Arc",
+            "overview": "Tanjiro and his Demon Slayer friends join Flame Hashira Kyojuro Rengoku aboard the Mugen Train, where over 40 passengers disappeared without a trace.",
+            "poster_path": "/eziUGb6S6ZOPj8xLOuk1aj5Uazx.jpg",
+            "season_number": 2
+          },
+          {
+            "air_date": "2021-12-05",
+            "episode_count": 11,
+            "id": 215073,
+            "name": "Entertainment District Arc",
+            "overview": "Tanjiro, Zenitsu, and Inosuke, aided by the Sound Hashira Tengen Uzui, travel to Yoshiwara red light district to hunt down a demon that has been terrorizing the town.",
+            "poster_path": "/kyhi1OjpifFkfo8gXrRvf9jI7SJ.jpg",
+            "season_number": 3
+          },
+          {
+            "air_date": "2023-04-09",
+            "episode_count": 11,
+            "id": 243774,
+            "name": "Swordsmith Village Arc",
+            "overview": "Tanjiro visits swordsmiths' village, where he faces explaining the damage to his sword. While waiting for repairs, the Mist Hashira battles two upper-rank demons with Tanjiro and Genya's aid. But can they handle a regenerating enemy that splits into four bodies?",
+            "poster_path": "/6gD7G8HQay1X8mHiFVttWJ3czYb.jpg",
+            "season_number": 4
+          }
+        ],
+        "spoken_languages": [
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          }
+        ],
+        "status": "Returning Series",
+        "tagline": "",
+        "type": "Scripted",
+        "vote_average": 8.702,
+        "vote_count": 5210
+      },
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "mediaType": "movie",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+        "belongs_to_collection": {
+          "id": 295,
+          "name": "Pirates of the Caribbean Collection",
+          "poster_path": "/p9fXIvNppK21fCHAEkznSZb8hnv.jpg",
+          "backdrop_path": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+        },
+        "budget": 200000000,
+        "genres": [
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "https://movies.disney.com/pirates-of-the-caribbean-dead-mans-chest",
+        "id": 58,
+        "imdb_id": "tt0383574",
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "Captain Jack Sparrow works his way out of a blood debt with the ghostly Davy Jones to avoid eternal damnation.",
+        "popularity": 63.009,
+        "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "production_companies": [
+          {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 130,
+            "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+            "name": "Jerry Bruckheimer Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 19936,
+            "logo_path": null,
+            "name": "Second Mate Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2006-07-06",
+        "revenue": 1065659812,
+        "runtime": 151,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+          },
+          {
+            "english_name": "Greek",
+            "iso_639_1": "el",
+            "name": "ελληνικά"
+          },
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Captain Jack is back!",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "video": false,
+        "vote_average": 7.339,
+        "vote_count": 14506
+      },
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "mediaType": "movie",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/51vreLbrGwzAg4WRCHgitWz6Naw.jpg",
+        "belongs_to_collection": {
+          "id": 284433,
+          "name": "Guardians of the Galaxy Collection",
+          "poster_path": "/iL8mukexAqEg0xK783rG561tdd8.jpg",
+          "backdrop_path": "/jdyyjulTBU8YUYAUvQFj6U1g2Pj.jpg"
+        },
+        "budget": 250000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3",
+        "id": 447365,
+        "imdb_id": "tt6791350",
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "popularity": 1383.714,
+        "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "production_companies": [
+          {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2023-05-03",
+        "revenue": 663801000,
+        "runtime": 150,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Once more with feeling.",
+        "title": "Guardians of the Galaxy Vol. 3",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 1527
+      },
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "mediaType": "tv",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/31tk8CYbdWneyVD7Xmc6WrNULai.jpg",
+        "created_by": [
+          {
+            "id": 120015,
+            "credit_id": "644b6ca8726fb102fc06031c",
+            "name": "Josh Appelbaum",
+            "gender": 2,
+            "profile_path": "/edCP3fGS25qdednDxSQkGiCimwK.jpg"
+          },
+          {
+            "id": 1246852,
+            "credit_id": "644b6cb2596a91057957b8e4",
+            "name": "Bryan Oh",
+            "gender": 2,
+            "profile_path": null
+          },
+          {
+            "id": 1424719,
+            "credit_id": "644b6cbd596a9102fc57b8b3",
+            "name": "David Weil",
+            "gender": 2,
+            "profile_path": "/tsx2DRIAg3pAzi6rzh6sgaFXdLj.jpg"
+          }
+        ],
+        "episode_run_time": [],
+        "first_air_date": "2023-04-27",
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 10759,
+            "name": "Action & Adventure"
+          }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0B8TQTZ99",
+        "id": 114922,
+        "in_production": true,
+        "languages": [
+          "en"
+        ],
+        "last_air_date": "2023-05-25",
+        "last_episode_to_air": {
+          "id": 4263534,
+          "name": "Secrets in Night Need Early Rains",
+          "overview": "With one of their own being held hostage by Manticore, Kyle, Nadia and Carter risk everything to save them and thwart Manticore’s plans to acquire nuclear weapons. As our heroes grapple with the nuclear threat, the identity of the mole within Citadel will be revealed, as will the awful truth that everything they know is a lie.",
+          "vote_average": 5,
+          "vote_count": 3,
+          "air_date": "2023-05-25",
+          "episode_number": 6,
+          "production_code": "",
+          "runtime": 50,
+          "season_number": 1,
+          "show_id": 114922,
+          "still_path": "/dJCOYjNNYt4OaQ44mSpi5QuvCpS.jpg"
+        },
+        "name": "Citadel",
+        "next_episode_to_air": null,
+        "networks": [
+          {
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "name": "Amazon",
+            "origin_country": ""
+          }
+        ],
+        "number_of_episodes": 6,
+        "number_of_seasons": 2,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Citadel",
+        "overview": "What if you lost your memory? What if a spy didn’t know they were a spy? Years ago, the top agents of Citadel, Mason Kane and Nadia Sinh, had their minds wiped. But, they’re called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick, these former lovers must remember the past to save the future.",
+        "popularity": 542.196,
+        "poster_path": "/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+        "production_companies": [
+          {
+            "id": 106544,
+            "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+            "name": "AGBO",
+            "origin_country": "US"
+          },
+          {
+            "id": 51593,
+            "logo_path": null,
+            "name": "Midnight Radio",
+            "origin_country": "US"
+          },
+          {
+            "id": 20580,
+            "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+            "name": "Amazon Studios",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "seasons": [
+          {
+            "air_date": "2023-04-27",
+            "episode_count": 6,
+            "id": 172832,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+            "season_number": 1
+          },
+          {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 342576,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+          }
+        ],
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Returning Series",
+        "tagline": "Everything you know is a lie.",
+        "type": "Scripted",
+        "vote_average": 7.513,
+        "vote_count": 114
+      },
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "mediaType": "tv",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/7qOe7BiHvZC4whnfMNC2TpAp8p5.jpg",
+        "created_by": [
+          {
+            "id": 78417,
+            "credit_id": "63fcbd6057176f00db803698",
+            "name": "Nick Santora",
+            "gender": 2,
+            "profile_path": "/iipP9fTQhRuPJHFMhbpMCceBiiu.jpg"
+          }
+        ],
+        "episode_run_time": [],
+        "first_air_date": "2023-05-25",
+        "genres": [
+          {
+            "id": 10759,
+            "name": "Action & Adventure"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.netflix.com/title/81397077",
+        "id": 221300,
+        "in_production": false,
+        "languages": [
+          "en"
+        ],
+        "last_air_date": "2023-05-25",
+        "last_episode_to_air": {
+          "id": 4263895,
+          "name": "That's It And That's All",
+          "overview": "With the clock ticking, Luke and Emma make tough choices to finish the mission and stay alive. A big day for the Brunner family spirals out of control.",
+          "vote_average": 0,
+          "vote_count": 0,
+          "air_date": "2023-05-25",
+          "episode_number": 8,
+          "production_code": "",
+          "runtime": 46,
+          "season_number": 1,
+          "show_id": 221300,
+          "still_path": "/4Iox7uqxMy4FS2GBZIj8ZyrYFhm.jpg"
+        },
+        "name": "FUBAR",
+        "next_episode_to_air": null,
+        "networks": [
+          {
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "name": "Netflix",
+            "origin_country": ""
+          }
+        ],
+        "number_of_episodes": 8,
+        "number_of_seasons": 1,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "FUBAR",
+        "overview": "When a father and daughter discover they both secretly work for the CIA, an already dicey undercover mission turns into a dysfunctional family affair.",
+        "popularity": 178.238,
+        "poster_path": "/6fM34tcGFp3A0csyxJJomknZB4b.jpg",
+        "production_companies": [
+          {
+            "id": 87731,
+            "logo_path": "/8PeKdSO13vYTod2HAJsV2m7mRr0.png",
+            "name": "Skydance Television",
+            "origin_country": "US"
+          },
+          {
+            "id": 161410,
+            "logo_path": null,
+            "name": "Blackjack Films",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "seasons": [
+          {
+            "air_date": "2023-05-25",
+            "episode_count": 8,
+            "id": 330611,
+            "name": "Season 1",
+            "overview": "When a father and daughter discover they both secretly work for the CIA, an already dicey undercover mission turns into a dysfunctional family affair.",
+            "poster_path": "/6fM34tcGFp3A0csyxJJomknZB4b.jpg",
+            "season_number": 1
+          }
+        ],
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Ended",
+        "tagline": "Heroes don't retire. They reload.",
+        "type": "Scripted",
+        "vote_average": 6.803,
+        "vote_count": 38
+      },
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "mediaType": "tv",
+      "mediaItem": {
+        "adult": false,
+        "backdrop_path": "/gNPWlhUXhyWiHv9qxr57tvT0WwS.jpg",
+        "created_by": [
+          {
+            "id": 88967,
+            "credit_id": "5bd5a46d0e0a2622bd02be75",
+            "name": "Greg Berlanti",
+            "gender": 2,
+            "profile_path": "/1T24SiIIDMa9gAmq7QaYwZywq4y.jpg"
+          },
+          {
+            "id": 211962,
+            "credit_id": "537523f9c3a3681ef4000177",
+            "name": "Geoff Johns",
+            "gender": 2,
+            "profile_path": "/1hiQjkIkeFoiwvD4yIk2Dq6tnOa.jpg"
+          },
+          {
+            "id": 1216615,
+            "credit_id": "5bd5a45ec3a36820f002e57f",
+            "name": "Andrew Kreisberg",
+            "gender": 2,
+            "profile_path": "/dm1kNRSLuPKYW4X1CPdO50cqyYJ.jpg"
+          }
+        ],
+        "episode_run_time": [
+          44
+        ],
+        "first_air_date": "2014-10-07",
+        "genres": [
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+          }
+        ],
+        "homepage": "http://www.cwtv.com/shows/the-flash/",
+        "id": 60735,
+        "in_production": false,
+        "languages": [
+          "en"
+        ],
+        "last_air_date": "2023-05-24",
+        "last_episode_to_air": {
+          "id": 4279495,
+          "name": "A New World: Finale (4)",
+          "overview": "The Flash, the fastest man alive, is tasked with his greatest challenge yet, to save the timeline and save existence. Friends old and new gather for an epic battle to save Central City, one last time.",
+          "vote_average": 7,
+          "vote_count": 3,
+          "air_date": "2023-05-24",
+          "episode_number": 13,
+          "production_code": "",
+          "runtime": 43,
+          "season_number": 9,
+          "show_id": 60735,
+          "still_path": "/mTl6JlhrGjqexyphqCFGCTzrJE8.jpg"
+        },
+        "name": "The Flash",
+        "next_episode_to_air": null,
+        "networks": [
+          {
+            "id": 71,
+            "logo_path": "/ge9hzeaU7nMtQ4PjkFlc68dGAJ9.png",
+            "name": "The CW",
+            "origin_country": "US"
+          }
+        ],
+        "number_of_episodes": 184,
+        "number_of_seasons": 9,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Flash",
+        "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+        "popularity": 1184.637,
+        "poster_path": "/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg",
+        "production_companies": [
+          {
+            "id": 1957,
+            "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+            "name": "Warner Bros. Television",
+            "origin_country": "US"
+          },
+          {
+            "id": 27711,
+            "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+            "name": "Berlanti Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "seasons": [
+          {
+            "air_date": "2016-04-19",
+            "episode_count": 9,
+            "id": 79954,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/ft8pUr3qX41kOux5eqrwf02yAxZ.jpg",
+            "season_number": 0
+          },
+          {
+            "air_date": "2014-10-07",
+            "episode_count": 23,
+            "id": 60523,
+            "name": "Season 1",
+            "overview": "When an unexpected accident at the S.T.A.R. Labs Particle Accelerator facility strikes Barry, he finds himself suddenly charged with the incredible power to move at super speeds. While Barry has always been a hero in his soul, his newfound powers have finally given him the ability to act like one. With the help of the research team at S.T.A.R. Labs, Barry begins testing the limits of his evolving powers and using them to stop crime. With a winning personality and a smile on his face, Barry Allen — aka The Flash — is finally moving forward in life … very, very fast!",
+            "poster_path": "/A3H6pewHfoy2bXmNhvycOe0xzlC.jpg",
+            "season_number": 1
+          },
+          {
+            "air_date": "2015-10-06",
+            "episode_count": 23,
+            "id": 66922,
+            "name": "Season 2",
+            "overview": "Following the dramatic events of season 1, Team Flash quickly turns their attention to a threat high above Central City. Armed with the heart of a hero and the ability to move at super speeds, will Barry be able to save his city from impending doom?",
+            "poster_path": "/8xWZPVX1cv9V5YD1RPeLj9QZDE9.jpg",
+            "season_number": 2
+          },
+          {
+            "air_date": "2016-10-04",
+            "episode_count": 23,
+            "id": 77888,
+            "name": "Season 3",
+            "overview": "Forensic scientist Barry Allen, aka The Flash, is living his dream life. His parents are alive. He's dating beautiful, smart Iris West. And he's able to stand back and let the new speedster in town, Kid Flash, step in to protect Central City. But the better Barry's life gets, the more dangerous it becomes. His nemesis, Reverse Flash, warns Barry of serious repercussions if he remains in the alternate Flashpoint universe: In addition to memory loss, his powers will fade. When disaster strikes, Barry must decide whether to continue life as Barry Allen or return to his universe as The Flash. As Barry deals with his identity crisis, he and the S.T.A.R. Labs team fight off lethal threats from the God of Speed, Savitar.",
+            "poster_path": "/qxagPKSYMhyGEgWLkC1NG43uWeN.jpg",
+            "season_number": 3
+          },
+          {
+            "air_date": "2017-10-10",
+            "episode_count": 23,
+            "id": 90247,
+            "name": "Season 4",
+            "overview": "The mission of Barry Allen, aka The Flash, is once more to protect Central City from metahuman threats. But with Barry trapped in the Speed Force, this mission falls to his family – Detective Joe West; fiancée Iris West; and Wally West/Kid Flash – and the team at S.T.A.R. Labs: Caitlin Snow/Killer Frost, Cisco Ramon/Vibe and brilliant scientist Harrison Wells. When a powerful villain threatens to level the city unless The Flash appears, Cisco risks everything to free Barry. But this is only the first move in a deadly game with Clifford DeVoe, aka The Thinker, a mastermind who’s always ten steps ahead of Barry, no matter how fast Barry runs.",
+            "poster_path": "/zBF3wcUp3SgnlYNOXQeaDg5XfTu.jpg",
+            "season_number": 4
+          },
+          {
+            "air_date": "2018-10-09",
+            "episode_count": 22,
+            "id": 104777,
+            "name": "Season 5",
+            "overview": "Barry Allen and his new wife, Iris West, finally settling into married life when they're visited by Nora West-Allen, their speedster daughter from the future. Nora's arrival brings to light the legacy every member of Team Flash will leave years from now, causing many to question who they are today. And while Nora idolizes Barry, she holds a mysterious grudge against Iris. As Team Flash adjusts to the next generation of speedster, they discover Nora's presence has triggered the arrival of the most ruthless, vicious and relentless villain they have ever faced: Cicada!",
+            "poster_path": "/z3CqL2vnjgLuefOiR5AYD9Tf91S.jpg",
+            "season_number": 5
+          },
+          {
+            "air_date": "2019-10-08",
+            "episode_count": 19,
+            "id": 126171,
+            "name": "Season 6",
+            "overview": "When Barry and Iris deal with loss of their daughter, the team faces their greatest threat yet - one that threatens to destroy all of Central City; Killer Frost has a brush with death that will change her relationship with Caitlin. Faced with the news of his impending death, Barry's resiliency suffers as he struggles to fight fate.",
+            "poster_path": "/qDntRDRs5XohN4ClcV2SH9WlzpI.jpg",
+            "season_number": 6
+          },
+          {
+            "air_date": "2021-03-02",
+            "episode_count": 18,
+            "id": 159996,
+            "name": "Season 7",
+            "overview": "After a thrilling cliffhanger last season which saw Mirror Monarch victorious and still-at-large in Central City, The Flash must regroup in order to stop her and find a way to make contact with his missing wife, Iris West-Allen. With help from the rest of Team Flash, Barry will ultimately defeat Mirror Master. But in doing so, he’ll also unleash an even more powerful and devastating threat on Central City: one that threatens to tear his team—and his marriage—apart.",
+            "poster_path": "/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+            "season_number": 7
+          },
+          {
+            "air_date": "2021-11-16",
+            "episode_count": 20,
+            "id": 199286,
+            "name": "Season 8",
+            "overview": "Six months after stopping the Godspeed War, Barry and Iris West-Allen are now at the top of their game—both in their careers as superhero and reporter and as a devoted couple. But when the powerful alien Despero unleashes near annihilation on Central City, The Flash and his team must once again defy impossible odds to save the day. But their victory is short-lived as two new threats rise from the ashes of \"Armageddon,\" one of which will unleash unforeseen horrors into the lives of Barry and his teammates... and change Team Flash forever.",
+            "poster_path": "/q6XgTULESR0Aix6JHgCtUTQjNus.jpg",
+            "season_number": 8
+          },
+          {
+            "air_date": "2023-02-08",
+            "episode_count": 13,
+            "id": 318884,
+            "name": "Season 9",
+            "overview": "After defeating the Reverse Flash once and for all, Barry Allen and Iris West-Allen are reconnecting and growing closer than ever before. But when a deadly group of Rogues descend on Central City led by a powerful new threat, The Flash and his team must once again defy impossible odds to save the day. But as The Rogues are defeated, a deadly new adversary rises to challenge Barry Allen's heroic legacy. And in their greatest battle yet, Barry and Team Flash will be pushed to their limits, in order to save Central City one last time.",
+            "poster_path": "/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg",
+            "season_number": 9
+          }
+        ],
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Ended",
+        "tagline": "The fastest man alive.",
+        "type": "Scripted",
+        "vote_average": 7.797,
+        "vote_count": 10433
+      },
+      "id": 8
+    }
+  ]
+}
